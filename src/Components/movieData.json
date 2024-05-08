@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "La La Land",
+    "subtitle": "2016, Damien Chazelle",
+    "duration": "128 min",
+    "category": "Comedy, Drama, Music",
+    "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "imageUrl": "https://m.media-amazon.com/images/I/51CLI6S+Q5L.jpg",
+    "poster": "https://wallpapers.com/images/hd/la-la-land-4k-uxsif3n0k9jj7t71.jpg",
+    "rating": 8.0
+  },
+  {
+    "id": 2,
+    "title": "Spider-Man: No Way Home",
+    "subtitle": "2021, Jon Watts",
+    "duration": "148 min",
+    "category": "Action, Adventure, Sci-Fi",
+    "description": "With Spider-Man's identity now revealed, Peter Parker asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDrBf5i_Yz7T5aPZFUADfUbPf2dUlAXOoT7i9V_8Nnw&s",
+    "rating": 8.6
+  },
+  {
+    "id": 3,
+    "title": "Me and Earl and the Dying Girl",
+    "subtitle": "2015, Alfonso Gomez-Rejon",
+    "duration": "105 min",
+    "category": "Comedy, Drama",
+    "description": "High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_FMjpg_UX1000_.jpg",
+    "poster": "https://m.media-amazon.com/images/I/71ZFDDk87LL._AC_UF1000,1000_QL80_.jpg",
+    "rating": 7.7
+  },  
+  {
+    "id": 4,
+    "title": "Avengers: Endgame",
+    "subtitle": "2019, Anthony Russo, Joe Russo",
+    "duration": "181 min",
+    "category": "Action, Adventure, Drama",
+    "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos's actions and restore balance to the universe.",
+    "imageUrl": "https://lh3.googleusercontent.com/proxy/i5BcCAgf8091yb1v-GpStqxPzTUq-ivNciVdPKiTncY2yfT8PRH-O9xsgFG63LjxXja_-n-mUrza70bNz2l99sMFOr9RsBoIKy2Ci6UcpaP0g_c",
+    "poster": "https://w0.peakpx.com/wallpaper/27/733/HD-wallpaper-avengers-endgame-portal-last-scene.jpg",
+    "rating": 8.4
+  },
+  {
+    "id": 5,
+    "title": "Inception",
+    "subtitle": "2010, Christopher Nolan",
+    "duration": "148 min",
+    "category": "Action, Adventure, Sci-Fi",
+    "description": "A thief who enters the dreams of others to steal their secrets from their subconscious gets a chance to redeem himself by planting an idea in the mind of a CEO.",
+    "imageUrl": "https://m.media-amazon.com/images/I/61gz2gcfkAL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysSy9_BmLmIENUf7HIa0ZUQ5znJ8BGaWa-6Q0aX2ACTE0ULTNT7pGzqBZ2TC2eGx8kAI&usqp=CAU",
+    "rating": 8.8
+  },
+  {
+    "id": 6,
+    "title": "The Shawshank Redemption",
+    "subtitle": "1994, Frank Darabont",
+    "duration": "142 min",
+    "category": "Drama",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "poster": "https://miro.medium.com/v2/resize:fit:1400/1*KBwRKCB9g4O0ojNzYC1uvw.jpeg",
+    "rating": 9.3
+  },
+  {
+    "id": 7,
+    "title": "Rockstar",
+    "subtitle": "2011, Imtiaz Ali",
+    "duration": "159 min",
+    "category": "Drama, Music, Romance",
+    "description": "Janardhan Jakhar chases his dreams of becoming a big Rock star, during which he falls in love with Heer, a rich girl who encourages him to pursue his passion.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@._V1_FMjpg_UX1000_.jpg",
+    "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/et00006184-zsqldzpyly-landscape.jpg",
+    "rating": 7.6
+  },
+  {
+    "id": 8,
+    "title": "Oohalu Gusagusalade",
+    "subtitle": "2014, Srinivas Avasarala",
+    "duration": "135 min",
+    "category": "Comedy, Romance",
+    "description": "A romantic comedy about the adventures of a small-town man who moves to Hyderabad to pursue his dreams and the love triangle that ensues between him, a beautiful girl, and her strict and protective brother.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2M1NDkwODMtOGY3Yi00ZWJhLTk5NGMtMGMxNjgxM2I0NDNhXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+    "poster": "https://i.ytimg.com/vi/_C0xfc4IYVI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKDBTMlxflNKHnRyz7YiBa3JTSBg",
+    "rating": 7.7
+  }
+]
+
